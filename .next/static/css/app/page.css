@@ -1,0 +1,204 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[9].use[5]!./src/style/marketplace.module.scss ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitRegular.7b9eee53.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitRegularItalic.3f43f814.ttf) format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitLightBackslant.a227d6ed.ttf) format("truetype");
+  font-weight: 300;
+  font-style: oblique;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitXboldBackslant.0dd57aba.ttf) format("truetype");
+  font-weight: 800;
+  font-style: oblique;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitMediumBackslant.ef5ace12.ttf) format("truetype");
+  font-weight: 500;
+  font-style: oblique;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitMediumItalic.b5f3fcd4.ttf) format("truetype");
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitBold.b72c49de.ttf) format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitBoldItalic.d35669a8.ttf) format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitXlightBackslant.22f15dbd.ttf) format("truetype");
+  font-weight: 200;
+  font-style: oblique;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitXbold.f128afe6.ttf) format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitThinItalic.9f7193b7.ttf) format("truetype");
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitThin.7cbfb46c.ttf) format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitBoldBackslant.c3e89f4d.ttf) format("truetype");
+  font-weight: 700;
+  font-style: oblique;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitXlightItalic.b24494d2.ttf) format("truetype");
+  font-weight: 200;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitFat.ce4e55cf.ttf) format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitRegularBackslant.34a926b3.ttf) format("truetype");
+  font-weight: 400;
+  font-style: oblique;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitLightItalic.c600ceb0.ttf) format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitMedium.a6feb595.ttf) format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitThinBackslant.9aa3abd1.ttf) format("truetype");
+  font-weight: 100;
+  font-style: oblique;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitFatItalic.ff046abc.ttf) format("truetype");
+  font-weight: 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitXlight.9361ca8b.ttf) format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitLight.1e75ee61.ttf) format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitXboldItalic.242128ef.ttf) format("truetype");
+  font-weight: 800;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Asgard Fit";
+  src: url(/_next/static/media/AsgardTrial-FitFatBackslant.94bf3ca2.ttf) format("truetype");
+  font-weight: 900;
+  font-style: oblique;
+}
+@font-face {
+  font-family: "EncodeSansExpanded";
+  src: url(/_next/static/media/EncodeSansExpanded-ExtraLight.648e8c19.ttf) format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "EncodeSansExpanded";
+  src: url(/_next/static/media/EncodeSansExpanded-Light.ad46d15a.ttf) format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "EncodeSansExpanded";
+  src: url(/_next/static/media/EncodeSansExpanded-Regular.8ce9d153.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "EncodeSansExpanded";
+  src: url(/_next/static/media/EncodeSansExpanded-Medium.2d701676.ttf) format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "EncodeSansExpanded";
+  src: url(/_next/static/media/EncodeSansExpanded-SemiBold.9aa9cf3d.ttf) format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "EncodeSansExpanded";
+  src: url(/_next/static/media/EncodeSansExpanded-Bold.d852d046.ttf) format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "EncodeSansExpanded";
+  src: url(/_next/static/media/EncodeSansExpanded-ExtraBold.d92954f3.ttf) format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "EncodeSansExpanded";
+  src: url(/_next/static/media/EncodeSansExpanded-Black.4f3e3a48.ttf) format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "EncodeSansExpanded";
+  src: url(/_next/static/media/EncodeSansExpanded-Thin.4508d978.ttf) format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+.marketplace_main__r16CZ {
+  background-color: red !important;
+}
